@@ -1,2 +1,4 @@
 # Hello World
 ### I am learning Github.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
